@@ -6,7 +6,7 @@ public class posneg {
 
         // true if number is less than 0
         if (number < 0.0)
-            System.out.println(num + " is  negative number.");
+            System.out.println(number + " is  negative number.");
 
         // true if number is greater than 0
         else if ( number > 0.0)
